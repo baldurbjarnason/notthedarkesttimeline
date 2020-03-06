@@ -36,7 +36,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
   eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
@@ -68,12 +67,12 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    templateFormats: [
+   /*  templateFormats: [
       "md",
       "njk",
       "html",
       "liquid"
-    ],
+    ], */
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about those.
