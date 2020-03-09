@@ -1,0 +1,15 @@
+.home {
+  text-transform: uppercase;
+  font-size: 150%;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.home a {
+  text-decoration: none;
+  display: block;
+  padding: 1rem;
+}

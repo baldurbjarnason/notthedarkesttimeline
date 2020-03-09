@@ -1,0 +1,18 @@
+h1 {
+  font-size: 250%;
+  line-height: 1.35;
+  margin: 0;
+}
+h2 {
+  font-size: 370%;
+  font-weight: normal;
+  line-height: 1;
+  margin: 1rem 0;
+  color: var(--dark);
+}
+h3 {
+  font-size: 200%;
+  font-weight: normal;
+  font-style: italic;
+  margin: 1rem 0;
+}

@@ -1,0 +1,6 @@
+header {
+  margin: 1rem 0;
+  padding: 0;
+  position: relative;
+  grid-area: header;
+}

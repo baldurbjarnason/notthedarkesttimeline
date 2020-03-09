@@ -1,0 +1,8 @@
+main {
+  display: grid;
+  padding: 1rem;
+  position: relative;
+  grid-area: main;
+  max-width: 40rem;
+  margin: 10rem auto 0;
+}

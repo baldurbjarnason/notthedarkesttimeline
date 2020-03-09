@@ -1,0 +1,13 @@
+.circle {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+.circle1 {
+  top: -14px;
+  left: -14px;
+}
+.circle2 {
+  top: -14px;
+  right: -14px;
+}

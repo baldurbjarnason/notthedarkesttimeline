@@ -1,0 +1,11 @@
+.Wrapper {
+  display: grid;
+  margin: 0 1rem;
+  min-height: 100vh;
+  position: relative;
+  padding-top: 250px;
+  padding-bottom: 300px;
+  grid-template-columns: max-content 1fr;
+  grid-template-areas: "header ."
+  "main main";
+}

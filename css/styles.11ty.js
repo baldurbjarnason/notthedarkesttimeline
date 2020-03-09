@@ -20,7 +20,6 @@ module.exports = class {
   };
 
   async render (data) {
-    console.log(data)
     const { rawCss, rawFilepath } = data
     return await postcss([
       easyImport,

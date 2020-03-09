@@ -1,0 +1,17 @@
+a:link {
+  color: var(--dark-pink);
+}
+a:visited {
+  color: var(--darker-pink);
+}
+@media (hover: hover) {
+  a:hover {
+    color: #eb8705;
+  }
+}
+a:active {
+  color: #da7d05;
+}
+a:focus {
+  color: #eb8705;
+}
