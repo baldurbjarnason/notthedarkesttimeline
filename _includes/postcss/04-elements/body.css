@@ -1,9 +1,9 @@
 body {
   background-color:#fefef9;
-  background-image: url(/img/header.svg), url(/img/circle.svg);
-  background-repeat: no-repeat, no-repeat;
-  background-position: 0 -50px, bottom left;
-  background-size: 2048px 420px, 2048px;
+  background-image: url(/img/header.svg), url(/img/circle.svg), url(/img/infinity.svg), url(/img/infinity.svg);
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: 0 -50px,0 100%,-1050px 50%,top 75% right -1000px;
+  background-size: 2048px 420px, 2048px, 1200px, 1200px;
   padding: 0;
   margin: 0;
   line-height: 1.35;

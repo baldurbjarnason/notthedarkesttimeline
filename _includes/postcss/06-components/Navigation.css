@@ -4,17 +4,33 @@
 
 .Navigation ul {
   margin: 0;
-  display:flex;
+  display:grid;
   list-style: none;
   padding: 0;
   align-items: center;
   justify-content: center;
+  grid-column-gap: 1.5rem;
+
+  grid-template-columns: min-content min-content min-content;position: absolute;
+
+  bottom: -100px;
+  
+  right: -150px;
 }
 .Navigation li {
-  margin: 0 2rem 0 0;
+  margin: 0 0 0 0;
   padding: 0;
   text-transform: uppercase;
 }
 .Navigation li a {
   text-decoration: none;
+}
+
+@media (max-width: 650px) {
+  .Navigation ul {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+  }
 }

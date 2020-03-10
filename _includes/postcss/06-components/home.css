@@ -11,5 +11,12 @@
 .home a {
   text-decoration: none;
   display: block;
-  padding: 1rem;
+  padding: 1rem 1rem 0;
+}
+
+.home-subtitle {
+  margin: 0;
+  padding: 0 1rem 1rem;
+  font-style: italic;
+  text-align: center;
 }

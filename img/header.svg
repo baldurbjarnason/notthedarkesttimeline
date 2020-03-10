@@ -1,6 +1,6 @@
 
 <svg viewBox="0 0 2048 420" class="HeaderSVG" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="700" cy="262" r="160" fill="#FFFFF4" stroke="none"/>
+    <circle cx="700" cy="262" r="160" fill="#FFFFe4" stroke="none"/>
     <line x1="0" y1="194" x2="2048" y2="194" stroke="#f7f7f0" stroke-width="4" />
     <line x1="312" y1="194" x2="324" y2="262" stroke="#f7f7f0" stroke-width="4" />
     <line x1="324" y1="262" x2="700" y2="262" stroke="#f7f7f0" stroke-width="4" />
