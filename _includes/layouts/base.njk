@@ -12,8 +12,10 @@
   <body>
   <div class="Wrapper dotted">
     <header>
-      <h1 class="home dotted"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+    <div class="home">
+      <h1 class="home-title"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
       <p class="home-subtitle">A podcast on remarkable digital media</p>
+    </div>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <nav aria-label="Site navigation" class="Navigation">

@@ -1,11 +1,15 @@
 .home {
   text-transform: uppercase;
-  font-size: 150%;
+  font-size: 100%;
   font-weight: normal;
   margin: 0;
   padding: 0;
   text-align: center;
   font-weight: bold;
+}
+
+.home-title {
+  font-size: 270%;
 }
 
 .home a {

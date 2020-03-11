@@ -2,6 +2,7 @@ html {
   font-family: var(--font-family);
   font-size: 1.313rem;
   color: var(--dark);
+  background-color: var(--darker-pink);
 }
 
 @media (max-width: 600px) {

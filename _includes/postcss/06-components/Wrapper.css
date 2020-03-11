@@ -6,6 +6,6 @@
   padding-top: 250px;
   padding-bottom: 300px;
   grid-template-columns: max-content 1fr;
-  grid-template-areas: "header ."
+  grid-template-areas: "header header"
   "main main";
 }

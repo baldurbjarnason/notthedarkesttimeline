@@ -1,4 +1,5 @@
 
 <svg viewBox="0 0 1200 1200" class="HeaderSVG" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="600" cy="600" r="600" fill="#FFFFEa" stroke="none" />
+    <circle cx="600" cy="600" r="600" fill="#FFFFf0" stroke="none" />
+    <circle cx="600" cy="600" r="300" fill="#FFFFd4" stroke="none" />
 </svg>

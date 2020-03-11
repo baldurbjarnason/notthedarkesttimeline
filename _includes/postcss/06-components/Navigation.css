@@ -10,12 +10,8 @@
   align-items: center;
   justify-content: center;
   grid-column-gap: 1.5rem;
-
-  grid-template-columns: min-content min-content min-content;position: absolute;
-
-  bottom: -100px;
-  
-  right: -150px;
+  margin: 2rem 0;
+  grid-template-columns: min-content min-content min-content;
 }
 .Navigation li {
   margin: 0 0 0 0;
