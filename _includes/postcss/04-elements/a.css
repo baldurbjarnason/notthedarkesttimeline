@@ -1,5 +1,8 @@
 a:link {
   color: var(--dark-pink);
+  text-decoration: none;
+  background-image: linear-gradient( to bottom,
+  transparent, transparent 70%, #fef1f7 70%, #fef1f7);
 }
 a:visited {
   color: var(--darker-pink);
@@ -7,11 +10,14 @@ a:visited {
 @media (hover: hover) {
   a:hover {
     color: #eb8705;
+    text-decoration: underline;
   }
 }
 a:active {
   color: #da7d05;
+  text-decoration: underline;
 }
 a:focus {
   color: #eb8705;
+  text-decoration: underline;
 }

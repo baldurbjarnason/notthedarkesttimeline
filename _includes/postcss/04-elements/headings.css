@@ -16,3 +16,14 @@ h3 {
   font-style: italic;
   margin: 1rem 0;
 }
+@media (max-width: 600px) {
+  h1 {
+    font-size: 150%;
+  }
+  h2 {
+    font-size: 200%;
+  }
+  h3 {
+    font-size: 120%;
+  }
+}

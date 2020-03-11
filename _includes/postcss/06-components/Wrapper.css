@@ -9,3 +9,9 @@
   grid-template-areas: "header header"
   "main main";
 }
+
+@media (max-width: 600px) {
+  .Wrapper {
+    margin: 0 0.5rem;
+  }
+}

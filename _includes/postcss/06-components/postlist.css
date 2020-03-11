@@ -18,15 +18,18 @@
 .postlist .tags a {
   font-size: 0.65rem;
   color: var(--dark);
-  background-color: #f9f9f5;
+  background-color: #FFFFd4;
   padding: 0.25rem 0.5rem;
   text-decoration: none;
   text-transform: uppercase;
+  background-image: linear-gradient( to bottom,
+  transparent, transparent 75%, #f7f7ae 75%, #f7f7ae);
 }
 @media (hover: hover) {
   .postlist .tags a:hover {
     color: white;
     background-color: #eb8705;
+    background-image: none;
   }
 }
 

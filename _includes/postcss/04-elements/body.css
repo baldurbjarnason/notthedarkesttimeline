@@ -10,8 +10,18 @@ body {
   box-shadow: 2px 2px 50px #000, inset 0 0 0 1rem var(--darker-pink);
 }
 
-@media (max-width: 750px) {
+@media (max-width: 800px) {
   body {
-    background-size: 1650px, 1650px;
+    background-size: 1536px 315px, 1500px;
+    background-position: 0 -70px,bottom -850px left 50%;
+    margin: 1rem;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    background-size: 1536px 315px, 1000px;
+    background-position: left -300px top -40px,bottom -650px left 50%;
+    margin: 0.5rem;
+    box-shadow: 2px 2px 50px #000, inset 0 0 0 0.5rem var(--darker-pink);
   }
 }
