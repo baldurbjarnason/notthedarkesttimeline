@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: index.njk
+  label: Front Page
+  match: "**/*"
 - type: directory
   path: podcast
   label: Podcast
