@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: index.njk
+  path: index.md
   label: Front Page
 - type: directory
   path: podcast
