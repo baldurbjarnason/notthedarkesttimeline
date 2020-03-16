@@ -7,12 +7,11 @@ sections:
 - type: document
   path: index.njk
   label: Front Page
-  match: "**/*"
 - type: directory
   path: podcast
   label: Podcast
   create: all
-  match: "**/*"
+  match: "**/*.md"
 - type: directory
   path: posts
   label: Posts
