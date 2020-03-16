@@ -4,7 +4,7 @@ main {
   position: relative;
   grid-area: main;
   max-width: 40rem;
-  margin: 10rem auto 0;
+  margin: 5rem auto 0;
 }
 @media (max-width: 600px) {
   main {
