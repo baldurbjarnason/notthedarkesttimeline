@@ -7,21 +7,21 @@ body {
   padding: 0;
   margin: 2rem;
   line-height: 1.35;
-  box-shadow: 2px 2px 50px #000, inset 0 0 0 1rem var(--darker-pink);
+  box-shadow: 2px 2px 50px #000, inset 0 0 0 0.65rem var(--darker-pink), inset 0 0 0 1rem var(--dark-pink);
 }
 
 @media (max-width: 800px) {
   body {
     background-size: 1500px;
-    background-position: bottom -850px left 50%;
+    background-position: top -850px left 50%;
     margin: 1rem;
   }
 }
 @media (max-width: 600px) {
   body {
     background-size: 1000px;
-    background-position: bottom -650px left 50%;
+    background-position: top -650px left 50%;
     margin: 0.5rem;
-    box-shadow: 2px 2px 50px #000, inset 0 0 0 0.5rem var(--darker-pink);
+    box-shadow: 2px 2px 50px #000, inset 0 0 0 0.35rem var(--darker-pink), inset 0 0 0 0.5rem var(--dark-pink);
   }
 }
