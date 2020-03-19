@@ -1,9 +1,8 @@
 main {
   display: grid;
-  padding: 1rem;
+  padding: 0;
   position: relative;
   grid-area: main;
-  max-width: 40rem;
   margin: 5rem auto 0;
 }
 @media (max-width: 600px) {

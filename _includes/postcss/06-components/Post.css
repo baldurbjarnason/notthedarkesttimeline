@@ -1,0 +1,28 @@
+
+
+/* p, ol, ul, dl, blockquote, figure, table, hr, section, article, details, figcaption {
+  margin-top: var(--paragraph-spacing);
+  margin-bottom: var(--paragraph-spacing);
+} */
+
+.Post {
+  display: grid;
+  grid-template-columns: minmax(1rem, 1fr) minmax(30rem, 40rem) minmax(1rem, 1fr);
+  grid-row-gap: var(--paragraph-spacing);
+}
+
+.Post > * {
+  grid-column: 2 / 3;
+  margin: 0;
+  max-width: 100%;
+}
+
+.Post > pre {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(1rem, 1fr) minmax(30rem, 40rem) minmax(1rem, 1fr);
+}
+
+.Post > pre > code {
+  grid-column: 2 / 3;
+}

@@ -2,6 +2,6 @@
 layout: layouts/index-page.njk
 ---
 
-## This is Front Page content.
+The front page file doesn't need its own heading. Some more text. _Maybe with italics_. And some **bold**. Formatting seems to work. What does it do when it wraps? Big Question.
 
 Yes indeed.
