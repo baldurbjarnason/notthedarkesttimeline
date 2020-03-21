@@ -8,13 +8,15 @@ body {
   margin: 2rem;
   line-height: 1.35;
   box-shadow: 2px 2px 50px #000;
-  box-shadow:
-  0 0.5px 1.7px rgba(0, 0, 0, 0.091),
-  0 1.1px 4px rgba(0, 0, 0, 0.13),
-  0 2.1px 7.5px rgba(0, 0, 0, 0.16),
-  0 3.8px 13.4px rgba(0, 0, 0, 0.191),
-  0 7.1px 25.1px rgba(0, 0, 0, 0.231),
-  0 17px 60px rgba(0, 0, 0, 0.33)
+  box-shadow: 
+    0 0.5px 1.7px rgba(0,0,0,.091),
+    0 1.1px 4px rgba(0,0,0,.13),
+    0 2.1px 7.5px rgba(0,0,0,.16),
+    0 3.8px 13.4px rgba(0,0,0,.191),
+    0 7.1px 25.1px rgba(0,0,0,.231),
+    0 17px 60px rgba(0,0,0,.33),
+    inset 0 0 0 2px var(--darker-pink);
+    border: 2px solid #fff;
 ;
 }
 

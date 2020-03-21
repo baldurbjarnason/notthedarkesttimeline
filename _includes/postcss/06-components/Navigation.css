@@ -12,6 +12,9 @@
   grid-column-gap: 1.5rem;
   margin: 2rem 0;
   grid-template-columns: min-content min-content min-content;
+  background-color: #fff;
+  border-top: 2px solid var(--darker-pink);
+  border-bottom: 2px solid var(--darker-pink);
 }
 .Navigation li {
   margin: 0 0 0 0;
@@ -20,6 +23,7 @@
 }
 .Navigation li a {
   text-decoration: none;
+  background: none;
 }
 
 @media (max-width: 650px) {
