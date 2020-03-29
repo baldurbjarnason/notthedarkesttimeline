@@ -2,8 +2,8 @@
 layout: layouts/index-page.njk
 
 ---
-The front page file doesn't need its own heading. Some more text. _Maybe with italics_. And some **bold**. Formatting seems to work. What does it do when it wraps? Big Question.
-
-Yes indeed.
-
-Let's add some more text to the front page.
+In these uncertain times, we decided to resurrect an old project, and start talking about the good things we've seen. Hence this.   
+  
+This is a podcast about interesting media. About ideas that might have had their day, but we think are worth reexamining. About things you might have heard of, and might not.   
+  
+We're Baldur Bjarnason and [Tom Abba](https://twitter.com/tomabba), and we're both recovering academics and media scholars. This is our podcast. 
