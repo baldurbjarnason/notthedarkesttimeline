@@ -9,9 +9,7 @@ layout: layouts/post.njk
 
 **Tom Abba:** \[00:00:00\] Okay. So hello, if you\'re listening to this. So this is by way of a very brief introduction to explain the massive plot hole exists in our podcast series. I\'m Tom Abba, and he is Baldur Bjarnason. And you\'re going to listen to us for the next sort of 45 minutes or so. I\'m talking about media forums and talking about things that interest us, but, um, we didn\'t have a title for this pocket series for the first four or five weeks.
 
-Um, we
-
-**Baldur Bjarnason:** \[00:00:25\] didn\'t have a clue.
+**Baldur Bjarnason:** \[00:00:25\] We didn\'t have a clue.
 
 **Tom Abba:** \[00:00:26\] No. You know what the title was going to be. Um, we used to do a podcast called, this is not a book that was following and reinterpreting and talking about a book we\'d written, and we\'re going to about five or six years now, but this was something different. So. It took us a few weeks from the title.
 
