@@ -2,12 +2,7 @@ html {
   font-family: var(--font-family);
   font-size: 1.313rem;
   color: var(--dark);
-  background-color: var(--darker-pink);
-  background-image: url(/img/birdinacorner.png);
-  background-repeat: no-repeat;
-  background-position: bottom center;
-  background-size: 100%;
-  padding-bottom: 300px;
+  background-color: white;
 }
 
 @media (max-width: 600px) {
