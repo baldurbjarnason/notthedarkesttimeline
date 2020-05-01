@@ -1,11 +1,26 @@
 ---
-title: "Episode One: Silent History"
+title: "The Silent History (Ep. 1)"
 description: The marriage of hypertext, apps, and novelistic structure
-date: 2020-03-20
+date: 2020-04-30
+audio: /audio/01-silent-history.mp3
 tags:
   - number-1
 layout: layouts/post.njk
 ---
+
+
+<audio
+    controls
+    src="{{ '/audio/01-silent-history.mp3' | url }}">
+        Your browser does not support the
+        <code>audio</code> element.
+</audio>
+
+### Links and references
+
+* The subject of our discussion: ["The Silent History"](https://apps.apple.com/us/app/the-silent-history/id1034208751)
+
+### Transcript (computer generated)
 
 **Tom Abba:** \[00:00:00\] Okay. So hello, if you\'re listening to this. So this is by way of a very brief introduction to explain the massive plot hole league exists in our podcast series. I\'m Tom Abba, and he is. And you\'re going to listen to us for the next sort of 45 minutes or so. Um, talking about media forums and talking about things interested.
 

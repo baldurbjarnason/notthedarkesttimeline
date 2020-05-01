@@ -26,3 +26,7 @@
 .Post > pre > code {
   grid-column: 2 / 3;
 }
+
+.Post > h2 {
+  margin: 2rem 0 5rem;
+}

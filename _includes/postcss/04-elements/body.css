@@ -9,9 +9,9 @@ body {
   line-height: 1.35;
   box-shadow: 2px 2px 50px #000;
   box-shadow: 
-    inset 0 0 0 2px var(--darker-pink);
+    inset 0 0 0 2px var(--darker-pink), inset 0 0 7px 4px #ddd;
     border: 2px solid #fff;
-;
+  border-radius: 1rem;
 }
 
 @media (max-width: 800px) {

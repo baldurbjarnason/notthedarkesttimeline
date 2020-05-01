@@ -13,14 +13,15 @@ layout: layouts/home.njk
   {% set postslist = collections.podcast | head(-3) %}
   {% include "postslist.njk" %}
 
-  <p>More podcasts can be found in <a href="{{ '/podcast/' | url }}">the archive</a>.</p>
+  <p>More podcasts can be found in <a href="{{ '/podcast/' | url }}">the podcast archive</a>.</p>
 
 <div class="FrontLists">
-  <h2>Latest 3 Posts</h2>
-
-  {% set postslist = collections.posts | head(-3) %}
-  {% set postslistCounter = collections.posts | length %}
+  <h2>Latest Writing</h2>
+{% if collections.writing %}
+  {% set postslist = collections.writing | head(-3) %}
+  {% set postslistCounter = collections.writing | length %}
   {% include "postslist.njk" %}
+{% endif %}
 
-  <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+  <p>More posts can be found in <a href="{{ '/posts/' | url }}">the writing archive</a>.</p>
 </div>
