@@ -11,8 +11,10 @@ layout: layouts/post.njk
 <audio
     controls
     src="{{ '/audio/00-introducing-the-podcast.mp3' | url }}">
-        <a href="/audio/00-introducing-the-podcast.mp3">Episode 0</a>
 </audio>
+
+
+<a href="/audio/00-introducing-the-podcast.mp3">Episode 0</a>
 
 ### Links and references
 
