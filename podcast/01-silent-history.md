@@ -12,8 +12,7 @@ layout: layouts/post.njk
 <audio
     controls
     src="{{ '/audio/01-silent-history.mp3' | url }}">
-        Your browser does not support the
-        <code>audio</code> element.
+        <a href="/audio/01-silent-history.mp3">Episode 1</a>
 </audio>
 
 ### Links and references

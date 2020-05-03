@@ -1,15 +1,18 @@
 {
   "title": "Not The Darkest Timeline",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "url": "https://www.notthedarkesttimeline.com/",
+  "description": "A podcast on remarkable digital media",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A podcast on remarkable digital media",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://www.notthedarkesttimeline.com/"
   },
-  "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
-  }
+  "author": [{
+    "name": "Baldur Bjarnason",
+    "email": "baldur.bjarnason@gmail.com"
+  }, {
+    "name": "Tom Abba",
+    "email": "tomabba@gmail.com"
+  }]
 }
