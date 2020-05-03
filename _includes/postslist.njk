@@ -10,13 +10,15 @@
             Your browser does not support the
             <code>audio</code> element.
     </audio></div>
-    {% endif %}
+    {% else %}
+    
     <span class="tags">{% for tag in post.data.tags %}
       {%- if collections.tagList.indexOf(tag) != -1 -%}
       {% set tagUrl %}/tags/{{ tag }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}</span>
+    {% endif %}
   </li>
 {% endfor %}
 </ol>
