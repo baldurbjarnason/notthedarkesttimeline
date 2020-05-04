@@ -9,9 +9,11 @@ tags:
 layout: layouts/post.njk
 
 ---
-Where we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).   
+Wherein we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).   
   
-About five years ago, we recorded a series of podcasts that discussed the book we'd written (link below).
+About five years ago, we recorded a series of podcasts that discussed the book we'd written (link below). These petered out when Baldur moved to Montreal, and Tom started work on the [Ambient Literature](https://research.ambientlit.com/) project. 
+
+This is a semi-sequel to those podcasts, and a reimagining of what we might want to talk about. It's also a reflection on the current state of things. Enjoy, and stay safe.
 
 <audio
 controls
