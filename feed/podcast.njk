@@ -12,10 +12,13 @@ eleventyExcludeFromCollections: true
     <itunes:author>Baldur Bjarnason and Tom Abba</itunes:author>
     <description>{{ metadata.feed.subtitle }}
     </description>
+    <itunes:summary>{{ metadata.feed.subtitle }}
+    </itunes:summary>
 	{%- for post in collections.podcast %}
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
 	<item>
 		<title>{{ post.data.title }}</title>
+		<itunes:title>{{ post.data.title }}</itunes:title>
 		<link>{{ absolutePostUrl }}</link>
     <guid>{{ absolutePostUrl }}</guid>
 		<pubDate>{{ post.date | rssDate }}</pubDate>
