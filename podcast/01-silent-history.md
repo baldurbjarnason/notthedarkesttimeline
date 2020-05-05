@@ -1,7 +1,7 @@
 ---
 title: The Silent History (Ep. 1)
 description: The Silent History is a remarkable piece of work. Originally published in serialised form in 2012-13, it imagines a near-present generation of children born lacking any facility for speech or, by extension, communication of any kind.
-date: 2020-04-30
+date: 2020-05-04
 audio: "/audio/01-silent-history.mp3"
 tags:
 - number-1
