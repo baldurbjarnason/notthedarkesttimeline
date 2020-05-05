@@ -18,7 +18,7 @@ eleventyExcludeFromCollections: true
 		<title>{{ post.data.title }}</title>
 		<link>{{ absolutePostUrl }}</link>
     <guid>{{ absolutePostUrl }}</guid>
-		<updated>{{ post.date | rssDate }}</updated>
+		<pubDate>{{ post.date | rssDate }}</pubDate>
 		<description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | more }}</description>
 	</item>
 	{%- endfor %}
