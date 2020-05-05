@@ -1,15 +1,16 @@
 ---
 title: Introducing Not The Darkest Timeline (Ep. 0)
-description: Where we introduce the series and give you an overview of what the next
-  few episodes will be about
+description: Wherein we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).  
 date: 2020-04-30
 audio: "/audio/00-introducing-the-podcast.mp3"
 tags:
 - number-0
 layout: layouts/post.njk
-
 ---
-Wherein we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).   
+
+Wherein we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).  
+
+<!--more-->
   
 About five years ago, we recorded a series of podcasts that discussed the book we'd written (link below). These petered out when Baldur moved to Montreal, and Tom started work on the [Ambient Literature](https://research.ambientlit.com/) project. 
 

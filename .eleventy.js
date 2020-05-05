@@ -32,6 +32,10 @@ module.exports = function(eleventyConfig) {
 
     return array.slice(0, n);
   });
+  // Get the description
+  eleventyConfig.addFilter("more", (text) => {
+    return text.split("<!--more-->")[0];
+  });
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
