@@ -19,6 +19,7 @@ eleventyExcludeFromCollections: true
 		<link>{{ absolutePostUrl }}</link>
     <guid>{{ absolutePostUrl }}</guid>
 		<pubDate>{{ post.date | rssDate }}</pubDate>
+		<itunes:duration>{{ post.data.duration }}</itunes:duration>
 		<description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | more }}</description>
 	</item>
 	{%- endfor %}
