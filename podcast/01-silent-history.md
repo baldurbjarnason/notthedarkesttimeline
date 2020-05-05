@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-The Silent History is a remarkable piece of work. Originally published in serialised form in 2012-13, it imagines a near-present generation of children born lacking any facility for speech or, by extension, communication of any kind. The form - daily instalments delivered to a subscriber's tablet/phone was not especially radical, rather the considered form of the app, and the potential for reader contribution enables it to stand out as a piece of digital-first literature. It is also the only entry Tom wrote solo for the [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/silent_history_the). 
+<a href="/audio/01-silent-history.mp3">Episode 1</a>: The Silent History is a remarkable piece of work. Originally published in serialised form in 2012-13, it imagines a near-present generation of children born lacking any facility for speech or, by extension, communication of any kind. The form - daily instalments delivered to a subscriber's tablet/phone was not especially radical, rather the considered form of the app, and the potential for reader contribution enables it to stand out as a piece of digital-first literature. It is also the only entry Tom wrote solo for the [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/silent_history_the). 
 
 <!--more-->
 

@@ -8,7 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
-Wherein we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).  
+
+<a href="/audio/00-introducing-the-podcast.mp3">Episode 0</a>: Wherein we introduce the series and give you an overview of what the next few episodes will be about (we recorded two versions of the introduction - this is the second).  
 
 <!--more-->
   
