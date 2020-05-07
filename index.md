@@ -8,4 +8,4 @@ This is a podcast about interesting media. About ideas that might have had their
   
 We're [Baldur Bjarnason](https://www.baldurbjarnason.com/) and [Tom Abba](https://twitter.com/tomabba), and we're both recovering academics and media scholars. This is our podcast.
 
-(We're going to link to iTunes and Overcast here when those become available.)
+**Subscribe:** [iTunes/Apple Podcasts](https://podcasts.apple.com/ca/podcast/not-the-darkest-timeline/id1511663624) &ndash; [Overcast](https://overcast.fm/itunes1511663624/not-the-darkest-timeline) &ndash; [Direct link to feed](https://feedpress.me/notthedarkesttimeline-podcast)

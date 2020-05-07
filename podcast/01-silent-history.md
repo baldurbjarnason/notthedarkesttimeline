@@ -19,6 +19,9 @@ src="{{ '/audio/01-silent-history.mp3' | url }}">
 <a href="/audio/01-silent-history.mp3">Episode 1</a>
 </audio>
 
+
+**Subscribe:** [iTunes/Apple Podcasts](https://podcasts.apple.com/ca/podcast/not-the-darkest-timeline/id1511663624) &ndash; [Overcast](https://overcast.fm/itunes1511663624/not-the-darkest-timeline) &ndash; [Direct link to feed](https://feedpress.me/notthedarkesttimeline-podcast)
+
 ### Links and references
 
 * The subject of our discussion: ["The Silent History"](https://apps.apple.com/us/app/the-silent-history/id1034208751)

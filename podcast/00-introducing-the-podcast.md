@@ -24,6 +24,8 @@ src="{{ '/audio/00-introducing-the-podcast.mp3' | url }}">
 <a href="/audio/00-introducing-the-podcast.mp3">Episode 0</a>
 </audio>
 
+**Subscribe:** [iTunes/Apple Podcasts](https://podcasts.apple.com/ca/podcast/not-the-darkest-timeline/id1511663624) &ndash; [Overcast](https://overcast.fm/itunes1511663624/not-the-darkest-timeline) &ndash; [Direct link to feed](https://feedpress.me/notthedarkesttimeline-podcast)
+
 ### Links and references
 
 * ["Writing in the age of the web -- This Is Not A Book"](https://thisisnotabook.baldurbjarnason.com/)
