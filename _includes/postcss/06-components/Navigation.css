@@ -13,8 +13,8 @@
   margin: 2rem 0;
   grid-template-columns: min-content min-content min-content;
   background-color: #fff;
-  border-top: 2px solid var(--darker-pink);
-  border-bottom: 2px solid var(--darker-pink);
+  border-top: 0.5px solid var(--darker-pink);
+  border-bottom: 0.5px solid var(--darker-pink);
 }
 .Navigation li {
   margin: 0 0 0 0;

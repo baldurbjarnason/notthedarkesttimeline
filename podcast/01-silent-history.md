@@ -1,15 +1,15 @@
 ---
-title: The Silent History (Ep. 1)
+title: "Ep. 1: The Silent History"
 description: The Silent History is a remarkable piece of work. Originally published in serialised form in 2012-13, it imagines a near-present generation of children born lacking any facility for speech or, by extension, communication of any kind.
 date: 2020-05-04
 audio: "/audio/01-silent-history.mp3"
 duration: 2804
 tags:
-- number-1
+  - number-1
 layout: layouts/post.njk
 ---
 
-<a href="/audio/01-silent-history.mp3">Episode 1</a>: The Silent History is a remarkable piece of work. Originally published in serialised form in 2012-13, it imagines a near-present generation of children born lacking any facility for speech or, by extension, communication of any kind. The form - daily instalments delivered to a subscriber's tablet/phone was not especially radical, rather the considered form of the app, and the potential for reader contribution enables it to stand out as a piece of digital-first literature. It is also the only entry Tom wrote solo for the [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/silent_history_the). 
+<a href="/audio/01-silent-history.mp3">Episode 1</a>: The Silent History is a remarkable piece of work. Originally published in serialised form in 2012-13, it imagines a near-present generation of children born lacking any facility for speech or, by extension, communication of any kind. The form - daily instalments delivered to a subscriber's tablet/phone was not especially radical, rather the considered form of the app, and the potential for reader contribution enables it to stand out as a piece of digital-first literature. It is also the only entry Tom wrote solo for the [Encyclopedia of Science Fiction](http://www.sf-encyclopedia.com/entry/silent_history_the).
 
 <!--more-->
 
@@ -19,12 +19,11 @@ src="{{ '/audio/01-silent-history.mp3' | url }}">
 <a href="/audio/01-silent-history.mp3">Episode 1</a>
 </audio>
 
-
 **Subscribe:** [iTunes/Apple Podcasts](https://podcasts.apple.com/ca/podcast/not-the-darkest-timeline/id1511663624) &ndash; [Overcast](https://overcast.fm/itunes1511663624/not-the-darkest-timeline) &ndash; [Direct link to feed](https://feedpress.me/notthedarkesttimeline-podcast)
 
 ### Links and references
 
-* The subject of our discussion: ["The Silent History"](https://apps.apple.com/us/app/the-silent-history/id1034208751)
+- The subject of our discussion: ["The Silent History"](https://apps.apple.com/us/app/the-silent-history/id1034208751)
 
 ### Transcript (computer generated)
 
